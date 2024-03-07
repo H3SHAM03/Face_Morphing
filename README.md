@@ -74,7 +74,7 @@ https://github.com/shehab400/Face_Morphing/assets/115353206/2ab61801-b46e-4633-b
 ## Contributors
 
 - Shehap Elhadary
-- Abdulrahman Hesham
+- AbdelRahman Hesham
 - Mohamed Ibrahim
 
 
